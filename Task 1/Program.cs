@@ -14,7 +14,6 @@ void Natural (int num, int first)
 
 int number = int.Parse(System.Console.ReadLine());
 int first = 1;
-string line = string.Empty;
 Natural(number,first);
 
 /*for (int i = 1; i <= number; i++)
